@@ -1,35 +1,41 @@
-![Demo](https://github.com/projection-engine/.github/blob/main/demo.png?raw=true)
-
 # Projection engine
 
-Projection Engine é um motor gráfico escrito do zero para trabalhar o melhor possível com seu navegador.
+![Demo](https://github.com/projection-engine/.github/blob/main/Projection.png?raw=true)
 
-Construído do com o framework React como base e utilizando tecnologias e algoritimos de ponta para suprir uma base de
-qualidade para desenvolvimento com facilidade direto da internet.
+### Extras
 
-## Features
+- **File system**
+  - Gerênciamento de arquivos utilizando IndexedDB.
+- **Visual scripting**
+  - Criação de materiais.
+- **Scene management**
+  - Hierarquia
+  - Atualização de atributos
 
-- **File system**: sistema de arquivos escrito do zero para integração com o *IndexedDB*, fornecendo facilidade de
-  gerenciar os arquivos dentro do seu projeto.
-- **Visual scripting**: sistema de desenvolvimento de scripts visuais focado na facilidade e beleza.
-- **Scene management**: gerenciamento da cena em questão, controle de transformação de meshes e outras customizações.
+### Visual features
 
-## Visual features
-
-- **Phong shading**.
+- **Blinn-Phong shading**.
 - **Texturas**.
 - **Camera**.
 - **Transformações**.
 - **Suporte a multiplos elementos**.
 - **Outline com stencil buffer**.
-- **.OBJ parser**.
-- **Materiais básicos**.
-
-## Em breve
-
+- **.OBJ loader**.
+- **Materiais**.
 - **Shadow mapping**.
-- **Point lights / Spotlights**
 - **Skybox e directional light**.
-- **Cube maps**.
-- **Instanced rendering**.
-- **PBR - Physically based rendering**.
+
+### Em breve (em ordem de prioridade)
+
+1. **Gamma correction**
+2. **HDR**
+3. **Bloom e materiais emissivos**
+4. **Instanced rendering**.
+5. **Point lights e Spotlights**
+6. **Pipeline PBR com suporte a specular workflow**.
+7. **Parallax occlusion mapping**
+8. **Cube maps**.
+9. **Screen space reflections**
+
+
+
