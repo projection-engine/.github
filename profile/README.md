@@ -31,17 +31,8 @@
 - **Pipeline PBR com suporte a metallic workflow**.
 - **Point lights**.
 - **FXAA**
+- **Deferred shading**
 
-### Em breve (em ordem de prioridade)
-
-1. **HDR**
-2. **Bloom e materiais emissivos**
-3. **Instanced rendering**.
-4. **Spotlights**
-5. **Cube maps**.
-6. **Screen space reflections**
-7. **Transparencia e possibilidade de "pintar" foliage**.
-8. **Detecção de colisão usando AABB**.
 
 
 
