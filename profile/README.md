@@ -32,7 +32,7 @@
 - **Point lights**.
 - **FXAA**
 - **Deferred shading**
-
+- **Suporte a glTF 2.0 (uhuu)**
 
 
 
