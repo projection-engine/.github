@@ -1,10 +1,10 @@
 # Projection engine
 
-![Demo2](https://github.com/projection-engine/.github/blob/main/PBRv3.png?raw=true)
+![Demo2](https://github.com/projection-engine/.github/blob/main/demo-1.png?raw=true)
 
 <div style="display: flex;">
-  <img src="https://github.com/projection-engine/.github/blob/main/PBRv1.png?raw=true" alt="demo" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/PBRv2.png?raw=true"   alt="demo" style="width: 49%;"/>
+  <img src="https://github.com/projection-engine/.github/blob/main/demo-2.png?raw=true" alt="demo" style="width: 49%;"/>
+  <img src="https://github.com/projection-engine/.github/blob/main/demo-3.png?raw=true"   alt="demo" style="width: 49%;"/>
 </div>
 
 ### Features
