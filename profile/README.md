@@ -5,12 +5,11 @@ Motor gráfico construido do zero com WebGL2;
 Suporte a algoritimos de ponta no quesito renderização e estruturado com padrão ECS (Entity, component, system).
 Editor construido com electronJS e ReactJS com um editor de material poderoso e gerenciamento de arquivos integrado.
 
-![Demo2](https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true)
-
+<img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Cena" style="width: 100%;"/>
 
 <div style="display: flex;">
   <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/VS GI.png?raw=true" title="Light propagation volumes"  alt="demo" style="width: 49%;"/>
+  <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" title="Light propagation volumes"  alt="demo" style="width: 49%;"/>
   <img src="https://github.com/projection-engine/.github/blob/main/BLEND.png?raw=true"  title="Material blend" alt="demo" style="width: 49%;"/>
   <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true"  title="Point light shadow maps" alt="demo" style="width: 49%;"/>
   <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo" style="width: 49%;"/>
