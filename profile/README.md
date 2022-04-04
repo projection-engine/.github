@@ -1,27 +1,29 @@
 # Projection engine
 
-Motor gráfico construido do zero com WebGL2;
+### Sobre *(About)*
+- **Editor**: construído do zero com foco em usabilidade e desempenho, utilizando ReactJS e ElectronJS para fornecer uma melhor experiência de trabalho fora do navegador.
+- **Renderizador**: utilizando WebGL2 e múltiplas técnicas gráficas, a Projection Engine fornece bastante flexibilidade com setup gráfico.
+- **Scripting**: programação baseada em nodes é um dos focos desse motor gráfico *(em desenvolvimento)*, irá fornecer ao usuário uma ampla variedade de nodes para criação das diversas interações.
+- **Importação**: glTF 2 é a forma padrão de importação de modelos 3D externos.
 
-Suporte a algoritimos de ponta no quesito renderização e estruturado com padrão ECS (Entity, component, system).
-Editor construido com electronJS e ReactJS com um editor de material poderoso e gerenciamento de arquivos integrado.
+### Exemplos *(Examples)*
+> ##### Exemplo cena simples *(Exemple simple scene)*
+> <img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Cena" style="width: 100%;"/>
 
-<img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Cena" style="width: 100%;"/>
+> ##### Editor de material baseado em nodes *(Node based Material editor)*
+> <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material"/>
 
-<div style="display: flex;">
-  <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" title="Light propagation volumes"  alt="demo" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/BLEND.png?raw=true"  title="Material blend" alt="demo" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true"  title="Point light shadow maps" alt="demo" style="width: 49%;"/>
-  <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo" style="width: 49%;"/>
-</div>
+> ##### Light propagation volumes global illumination
+> <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" title="Light propagation volumes"  alt="demo"/>
 
-### Features
+> ##### Blend com mapa de altura *(Height map based blending)*
+> <img src="https://github.com/projection-engine/.github/blob/main/BLEND.png?raw=true"  title="Material blend" alt="demo"/>
 
-| Rendering                                                                    | UI                                              | Controles                              | Serialização | Desserialização                    | Outros                    |
-|------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------|--------------|------------------------------------|---------------------------|
-| FXAA                                                                         | Sistema de arquivos integrados com o navegador. | Mouse picking                          |              | Suporte a modelos .obj             | Simulação de gravidade    |
-| Materiais e renderização Physically based + Parallax occlusion mapping       | Hierarquia de entidades                         | Transformações                         |              | Suporte a modelos .glTF (gltf 2.0) | Colisão com mesh esférica |
-| IBL - Image based lighting                                                   | Elementos ajustaveis (tamanho)                  | Materiais                              |              |                                    |                           |
-| Deferred shading                                                             | Temas                                           | Customização de tamanhos dos elementos |              |                                    |                           |
-| Shadow maps - Suporte a 4 direções e baked shadow maps (em desenvolvimento). |                                                 | Preferências da UI                     |              |                                    |                           |
-| Reflexões com cubemaps (em desenvolvimento)                                  |                                                 |                                        |              |                                    |                           |
+> ##### Sombras omnidirecionais *(Omnidirectional shadow maps)*
+> <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true"  title="Point light shadow maps" alt="demo"/>
+
+> ##### Parallax occlusion mapping
+> <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/>
+
+> ##### Programação baseada em nodes *(Node-based Scripting)*
+> <img src="https://github.com/projection-engine/.github/blob/main/scripting.png?raw=true"  title="Scripting" alt="demo"/>
