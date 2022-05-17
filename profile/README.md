@@ -1,29 +1,92 @@
 # Projection engine
 
-### Sobre *(About)*
-- **Editor**: construído do zero com foco em usabilidade e desempenho, utilizando ReactJS e ElectronJS para fornecer uma melhor experiência de trabalho fora do navegador.
-- **Renderizador**: utilizando WebGL2 e múltiplas técnicas gráficas, a Projection Engine fornece bastante flexibilidade com setup gráfico.
-- **Scripting**: programação baseada em nodes é um dos focos desse motor gráfico *(em desenvolvimento)*, irá fornecer ao usuário uma ampla variedade de nodes para criação das diversas interações.
-- **Importação**: glTF 2 é a forma padrão de importação de modelos 3D externos.
+The **Projection Engine** is a 3D graphics engine designed and written from ground up to be multi-platform and easy to use.
 
-### Exemplos *(Examples)*
-> ##### Exemplo cena simples *(Exemple simple scene)*
-> <img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Cena" style="width: 100%;"/>
+Multiple features are already implemented or on the way to the editor, here is a list of some of those features:
 
-> ##### Editor de material baseado em nodes *(Node based Material editor)*
-> <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material"/>
+|                                                  Simple scene                                                  |                                                  Material editor                                                   |
+|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Editor material"/> | <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material"/> |
 
-> ##### Light propagation volumes global illumination
-> <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" title="Light propagation volumes"  alt="demo"/>
+|                                    Parallax occlusion mapping                               |                            Light propagation volumes global illumination (dev)                             |
+|:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|  <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/> | <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" alt="Editor material"/> |
 
-> ##### Blend com mapa de altura *(Height map based blending)*
-> <img src="https://github.com/projection-engine/.github/blob/main/BLEND.png?raw=true"  title="Material blend" alt="demo"/>
+|                                    Directional and omnidirectional shadows                                     |                            Node-based Scripting                        |
+|:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true" alt="Editor material"/> | <img src="https://github.com/projection-engine/.github/blob/main/scripting.png?raw=true" alt="Editor material"/> |
 
-> ##### Sombras omnidirecionais *(Omnidirectional shadow maps)*
-> <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true"  title="Point light shadow maps" alt="demo"/>
+### Viewport
 
-> ##### Parallax occlusion mapping
-> <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/>
+- **Manipulation**: 
+  - Transformation gizmos:
+    - Rotation
+    - Translation
+    - Scaling
+  - Entity picking
+  - Hot keys
+  - Multi select
+  - Transformation for multiple entities
+  - Individual manipulation grid for rotation, scaling and translation 
+  - Hierarchical transformation
+- **Visualization**
+  - Rendering modes for debug and ease of use
+  - Entity highlight
+  - Icons
+  - World grid
 
-> ##### Programação baseada em nodes *(Node-based Scripting)*
-> <img src="https://github.com/projection-engine/.github/blob/main/scripting.png?raw=true"  title="Scripting" alt="demo"/>
+### Rendering
+- **Post processing**
+  - FXAA
+  - Film grain
+  - Chromatic aberration
+  - Multi-step bloom
+  - Lens distortion
+- **Materials and PBR rendering**
+  - Unlit
+  - Forward and deferred renderers
+  - Directional and omnidirectional shadows with PCF filtering
+- **GI**
+  - Light probes (under development)
+  - Light propagation volumes (under development)
+  - CubeMap specular reflections
+- **Other**
+  - SSAO with depth reconstruction for both forward a deferred shaded materials
+  - Fully physically based pipeline with metallic workflow
+
+### Editor
+- **File system**
+  - Folders and files management
+  - Bookmarks 
+  - Navigation shortcuts
+  - Search
+- **Scene structure**
+  - Entity-component-system with hierarchical structure
+  - Custom material uniforms editable via form
+  - Folders and multi-select
+  - Transformations and component attribute manipulation
+- **Multi-tab system**
+- **Shared GPU context for fast tab switching**
+- **Parallel processing (IPC and workers)**
+  - Project loading
+  - glTF import
+  - File system refreshes
+  - Image processing
+  
+### Blueprints
+- **Scripts**
+  - Multiple nodes for custom scripts
+  - Compiled down to native language
+- **Groups**
+  - Color customization
+  - Label
+- **Materials**
+  - Custom material/shader creation with nodes
+  - Multiple pre-crafted functions
+  - Compiled down to glsl
+  - Custom program generator
+  - Multiple rendering methods.
+- **Custom scripts written in JS**
+
+### UI creation
+> Under development
