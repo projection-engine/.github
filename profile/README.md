@@ -8,9 +8,9 @@ The **Projection Engine** is a 3D graphics engine designed and written from grou
 |:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Editor material"/> | <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material"/> |
 
-|                                    Parallax occlusion mapping                               |                            Light propagation volumes global illumination (dev)                             |
+|                                    Parallax occlusion mapping                               |                            Screen space reflections (dev)                             |
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-|  <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/> | <img src="https://github.com/projection-engine/.github/blob/main/EEE.png?raw=true" alt="Editor material"/> |
+|  <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/> | <img src="https://github.com/projection-engine/.github/blob/main/SSR-3.png?raw=true" alt="Editor material"/> |
 
 |                                    Directional and omnidirectional shadows                                     |                            Node-based Scripting                        |
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
