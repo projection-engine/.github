@@ -12,9 +12,9 @@ The **Projection Engine** is a 3D graphics engine designed and written from grou
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 |  <img src="https://github.com/projection-engine/.github/blob/main/True parallax.png?raw=true"  title="Parallax occlusion mapping" alt="demo"/> | <img src="https://github.com/projection-engine/.github/blob/main/development/SSR-3.png?raw=true" alt="Editor material"/> |
 
-|                                    Directional and omnidirectional shadows                                     |                            Node-based Scripting                        |
+|                                    Directional and omnidirectional shadows                                     |                          Flexible view layout                        |
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true" alt="Editor material"/> | <img src="https://github.com/projection-engine/.github/blob/main/scripting.png?raw=true" alt="Editor material"/> |
+| <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true" alt="Editor material"/> | <img src="https://github.com/projection-engine/.github/blob/main/development/VIEWS.png?raw=true" alt="Editor material"/> |
 
 ## 2. History
 
