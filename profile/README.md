@@ -1,6 +1,6 @@
 # Projection engine
 
-The **Projection Engine** is a 3D graphics engine designed and written from ground up to be multi-platform and easy to use.
+The **Projection Engine** is a 3D graphics engine written from ground up to be multi-platform and easy to use.
 
 ## 0. Website
 
@@ -61,7 +61,3 @@ For a better overview and download links you can access our [website](https://pr
   
 ### 2. Licence
 The Projection Engine and all its modules are licenced under an MIT licence.
-
-### 3. Community
-- **Bugs - Feature request - Help**: [GitHub issues](https://github.com/projection-engine/editor/issues)
-- **My personal discord**: morshu_non_rtx#8805
