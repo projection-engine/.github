@@ -5,7 +5,7 @@ The **Projection Engine** is a 3D graphics engine written from ground up to be m
 
 ## Download
 
-Download the latest version: [v2.3.0-alpha](https://github.com/projection-engine/editor/releases/tag/NEXT)
+Download the latest version: [v2.4.0-alpha](https://github.com/projection-engine/editor/releases/tag/NEXT)
 
 [Here you can find things under development](https://github.com/projection-engine/editor/projects/4)
 
@@ -13,18 +13,18 @@ Download the latest version: [v2.3.0-alpha](https://github.com/projection-engine
 <table>
     <tr>
         <th>
-            Simple scene  
+            Console
         </th>
         <th>
-            Material editor                                                            
+            Preferences
         </th>
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/projection-engine/.github/blob/main/SCENE 2.png?raw=true" alt="Editor material"/>
+            <img src="https://github.com/projection-engine/.github/blob/main/v2.4.0-alpha/console.png?raw=true" alt="Console"/>
         </td>
         <td>
-            <img src="https://github.com/projection-engine/.github/blob/main/Material v2.png?raw=true" alt="Editor material"/>                                                             
+            <img src="https://github.com/projection-engine/.github/blob/main/v2.4.0-alpha/background.png?raw=true" alt="Background"/>                                                             
         </td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@ Download the latest version: [v2.3.0-alpha](https://github.com/projection-engine
            Directional and omnidirectional shadows   
         </th>
         <th>
-            View components      
+            Multiple views and shader editor
         </th>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ Download the latest version: [v2.3.0-alpha](https://github.com/projection-engine
          <img src="https://github.com/projection-engine/.github/blob/main/OMNI.png?raw=true" alt="Editor material"/>
         </td>
         <td>
- <img src="https://github.com/projection-engine/.github/blob/main/development/VIEWS.png?raw=true" alt="Editor material"/>                                      
+ <img src="https://github.com/projection-engine/.github/blob/main/v2.4.0-alpha/skybox-material.png?raw=true" alt="Shader Editor"/>                                      
         </td>
     </tr>
 </table>
