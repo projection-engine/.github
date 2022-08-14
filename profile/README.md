@@ -5,7 +5,7 @@ The **Projection Engine** is a 3D graphics engine written from ground up to be m
 
 ## Download
 
-Download the latest version: [v2.4.0-alpha](https://github.com/projection-engine/editor/releases/tag/v2.4.0-Alpha)
+Download the latest version: [v2.5.0-alpha](https://github.com/projection-engine/editor/releases/tag/v2.5.0-alpha)
 
 ## Screenshots
 <table>
