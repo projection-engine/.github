@@ -58,5 +58,5 @@ Download the latest version: [v2.5.0-alpha](https://github.com/projection-engine
 </table>
 
   
-### 2. Licence
+### Licence
 The Projection Engine and all its modules are licenced under an MIT licence.
