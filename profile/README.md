@@ -1,7 +1,5 @@
 # Projection engine
-
-The **Projection Engine** is a 3D graphics engine written from ground up to be multi-platform and easy to use.
-
+Full on 3D graphics engine. Built with WebGL2 and Svelte. Developed from ground-up.
 
 ## Download
 
