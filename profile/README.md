@@ -3,7 +3,7 @@ Full on 3D graphics engine. Built with WebGL2 and Svelte. Developed from ground-
 
 ## Download
 
-Download the latest version: [v3.0.0-alpha](https://github.com/projection-engine/editor/releases/tag/v3.0.0-alpha)
+Download the latest version: [v3.1.1-alpha](https://github.com/projection-engine/editor/releases/tag/v3.1.1-alpha)
 
 ## Screenshots
 <table>
