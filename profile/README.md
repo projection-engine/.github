@@ -1,9 +1,31 @@
 # Projection engine
-Full on 3D graphics engine. Built with WebGL2 and Svelte. Developed from ground-up.
+This is a solo, open-souce project of a full-on 3D graphics engine, intended to be used to create small to medium size interactive desktop and web applications. 
+
+If you would like to contribute with this project, your feedback would be extremely appreciated.
 
 ## Download
-
+> v3.1.1-alpha available now
 Download the latest version: [v3.1.1-alpha](https://github.com/projection-engine/editor/releases/tag/v3.1.1-alpha)
+
+## Development
+You can follow the project development via the following boards:
+
+### [New features](https://github.com/orgs/projection-engine/projects/6)
+New features coming to the engine in the near/medium distance future.
+
+### [Bugs](https://github.com/orgs/projection-engine/projects/5)
+Known bugs.
+
+### [Improvements](https://github.com/orgs/projection-engine/projects/4)
+Currently existing features with improvements coming to how they work.
+
+## Repositories
+
+### [Engine](https://github.com/projection-engine/engine)
+Rendering stuff including editor tools like the gizmo system and infinite grid.
+
+### [Editor](https://github.com/projection-engine/editor)
+Editor UI (Svelte and ReactJS on older versions) and NodeJS backend (electron)
 
 ## Screenshots
 <table>
