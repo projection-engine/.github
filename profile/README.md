@@ -3,10 +3,12 @@ This is a solo, open-souce project of a full-on 3D graphics engine, intended to 
 
 If you would like to contribute with this project, your feedback would be extremely appreciated.
 
+ 
 ## Download
 > v3.1.1-alpha available now
 
 Download the latest version: [v3.1.1-alpha](https://github.com/projection-engine/editor/releases/tag/v3.1.1-alpha)
+![image](https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/sample2.png)
 
 ## Development
 You can follow the project development via the following boards:
