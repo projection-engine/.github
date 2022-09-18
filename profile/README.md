@@ -4,8 +4,17 @@ This is a solo, open-souce project of a full-on 3D graphics engine, intended to 
 If you would like to contribute with this project, your feedback would be extremely appreciated.
 
  
-## Download - [v5.0.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.0.0-alpha)
-![image](https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/sample2.png)
+## Download - [v5.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.1.0-alpha)
+<table>
+    <tr>
+        <th>
+           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/v5.1.0/v5.1.0-sample1.png"/> 
+        </th>
+        <th>
+           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/v5.1.0/v5.1.0-sample2.png.png"/> 
+        </th>
+    </tr>
+</table>
 
 ## Development
 You can follow the project development via the following boards:
