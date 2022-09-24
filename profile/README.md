@@ -6,14 +6,13 @@ interactive desktop and web applications.
 If you would like to contribute with this project, your feedback would be extremely appreciated.
 
 ## Download - [v5.8.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.8.0-alpha)
-SSGI improvements
 <table>
     <tr>
         <th>
-           Before 
+          SSGI Before 
         </th>
         <th>
-           After 
+          SSGI After 
         </th>
     </tr>
     <tr>
