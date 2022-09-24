@@ -6,7 +6,7 @@ interactive desktop and web applications.
 If you would like to contribute with this project, your feedback would be extremely appreciated.
 
 ## Download - [v5.8.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.8.0-alpha)
-
+SSGI improvements
 <table>
     <tr>
         <th>
@@ -21,15 +21,15 @@ If you would like to contribute with this project, your feedback would be extrem
            <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-BEFORE.png"/> 
         </th>
         <th>
-          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-AFTER.png"/>  
+          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-NOW.png"/>  
         </th>
     </tr>
   <tr>
         <th>
-           ON 
+           SSGI ON 
         </th>
         <th>
-           OFF 
+           SSGI OFF 
         </th>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ Editor UI (Svelte and ReactJS on older versions) and NodeJS backend (electron)
     </tr>
     <tr>
         <td>
-            <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-AFTER.png"/>
+            <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-NOW.png"/>
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSAO.png"/>                                      
