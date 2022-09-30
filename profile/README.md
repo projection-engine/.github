@@ -41,7 +41,7 @@ If you would like to contribute with this project, your feedback would be extrem
     </tr>
 </table>
 
-## Development
+## Follow the development
 
 You can follow the project development via the following boards:
 
@@ -57,15 +57,38 @@ Known bugs.
 
 Currently existing features with improvements coming to how they work.
 
+## Currently under development (v10.0.0-alpha)
+> Due to the scope of this update this will take more time than previous updates.
+
+- New editor backend with [**Tauri**](https://github.com/tauri-apps/tauri)
+    - Completely rewritten file system backend
+    - New window management structure
+    - new glTF loader (rust based)
+    - Support for update via the editor UI itself
+    - Move away from embedded window frame to native window frame
+- Terrain system (pre-alpha)
+    - Sculpting
+    - Layered materials
+    - Layer painting
+    - New editor view
+- Big rendering optimization
+    - Depth pre-pass and Deferred pass will now work together
+- PhysicsAPI
+    - Access to AmmoJS physics instance
+    - Terrain physics builder
+- Infinite scroll changes
+    - Integration with native svelte component for infinite-scroll
+    - provides same behaviour as default scrolling but with element culling
+
 ## Repositories
 
 ### [Engine](https://github.com/projection-engine/engine)
 
-Rendering stuff including editor tools
+Rendering stuff including editor tools.
 
 ### [Editor](https://github.com/projection-engine/editor)
 
-Editor UI (Svelte and ReactJS on older versions) and NodeJS backend (electron)
+Editor UI including **Svelte** frontend and the **Electron** backend.
 
 ## Screenshots
 
