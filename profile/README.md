@@ -1,9 +1,11 @@
 # Projection engine
 
-This is a solo, open-souce project of a full-on 3D graphics engine, intended to be used to create small to medium size
+This is a solo, open-source project of a full-on 3D graphics engine, intended to be used to create small to medium size
 interactive desktop and web applications.
 
 If you would like to contribute with this project, your feedback would be extremely appreciated.
+
+**Discord:** morshu_non_rtx#8805
 
 ## Download - [v5.8.1-alpha](https://github.com/projection-engine/editor/releases/tag/v5.8.0-alpha)
 <table>
@@ -60,23 +62,23 @@ Currently existing features with improvements coming to how they work.
 ## Currently under development (v10.0.0-alpha)
 > Due to the scope of this update this will take more time than previous updates.
 
-- New editor backend with [**Tauri**](https://github.com/tauri-apps/tauri)
+- [ ] New editor backend with [**Tauri**](https://github.com/tauri-apps/tauri)
     - Completely rewritten file system backend
     - New window management structure
     - new glTF loader (rust based)
     - Support for update via the editor UI itself
     - Move away from embedded window frame to native window frame
-- Terrain system (pre-alpha)
-    - Sculpting
-    - Layered materials
-    - Layer painting
-    - New editor view
-- Big rendering optimization
+- [ ] Terrain system (pre-alpha)
+    - [x] Sculpting
+    - [x] Layered materials
+    - [ ] Layer painting
+    - [x] New editor view
+- [ ] Big rendering optimization
     - Depth pre-pass and Deferred pass will now work together
-- PhysicsAPI
+- [x] PhysicsAPI
     - Access to AmmoJS physics instance
     - Terrain physics builder
-- Infinite scroll changes
+- [x] Infinite scroll changes
     - Integration with native svelte component for infinite-scroll
     - provides same behaviour as default scrolling but with element culling
 
@@ -142,7 +144,9 @@ Editor UI including **Svelte** frontend and the **Electron** backend.
         </td>
     </tr>
 </table>
+ 
+----
 
-### Licence
-
-The Projection Engine and all its modules are licenced under an MIT licence.
+<p align="center">Copyright (c) 2022 Projection Engine</p> 
+<p align="center">This program comes with absolutely no warranty.</p> 
+<p align="center">Under MIT License</p> 
