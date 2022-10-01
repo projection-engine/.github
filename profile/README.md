@@ -59,28 +59,12 @@ Known bugs.
 
 Currently existing features with improvements coming to how they work.
 
-## Currently under development (v10.0.0-alpha)
-> Due to the scope of this update this will take more time than previous updates.
+## Big changes in the near/distant future
 
-- [ ] New editor backend with [**Tauri**](https://github.com/tauri-apps/tauri)
-    - Completely rewritten file system backend
-    - New window management structure
-    - new glTF loader (rust based)
-    - Support for update via the editor UI itself
-    - Move away from embedded window frame to native window frame
-- [ ] Terrain system (pre-alpha)
-    - [x] Sculpting
-    - [x] Layered materials
-    - [ ] Layer painting
-    - [x] New editor view
-- [ ] Big rendering optimization
-    - Depth pre-pass and Deferred pass will now work together
-- [x] PhysicsAPI
-    - Access to AmmoJS physics instance
-    - Terrain physics builder
-- [x] Infinite scroll changes
-    - Integration with native svelte component for infinite-scroll
-    - provides same behaviour as default scrolling but with element culling
+- ElectronJS -> Tauri
+- New unified file system
+- Terrain system (first implementation on v6.0.0-alpha)
+- Performance metrics 
 
 ## Repositories
 
