@@ -7,7 +7,7 @@ If you would like to contribute with this project, your feedback would be extrem
 
 **Discord:** morshu_non_rtx#8805
 
-## Download - [v6.0.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
+## Download - [v6.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
 <table>
     <tr>
         <th>
