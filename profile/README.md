@@ -1,5 +1,5 @@
-# Projection engine
-
+# Projection engine [v6.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
+ 
 This is a solo, open-source project of a full-on 3D graphics engine, intended to be used to create small to medium size
 interactive desktop and web applications.
 
@@ -7,74 +7,20 @@ If you would like to contribute with this project, your feedback would be extrem
 
 **Discord:** morshu_non_rtx#8805
 
-## Download - [v6.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
-<table>
-    <tr>
-        <th>
-          SSGI Before 
-        </th>
-        <th>
-          SSGI After 
-        </th>
-    </tr>
-    <tr>
-        <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-BEFORE.png"/> 
-        </th>
-        <th>
-          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-NOW.png"/>  
-        </th>
-    </tr>
-  <tr>
-        <th>
-           SSGI ON 
-        </th>
-        <th>
-           SSGI OFF 
-        </th>
-    </tr>
-    <tr>
-        <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-ON.png"/> 
-        </th>
-        <th>
-          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-OFF.png"/>  
-        </th>
-    </tr>
-</table>
-
 ## Follow the development
-
-You can follow the project development via the following boards:
-
-### [New features](https://github.com/orgs/projection-engine/projects/6)
-
-New features coming to the engine in the near/medium distance future.
-
-### [Bugs](https://github.com/orgs/projection-engine/projects/5)
-
-Known bugs.
-
-### [Improvements](https://github.com/orgs/projection-engine/projects/4)
-
-Currently existing features with improvements coming to how they work.
-
-## Big changes in the near/distant future
-
-- ElectronJS -> Tauri
-- New unified file system
-- Terrain system (first implementation on v6.0.0-alpha)
-- Performance metrics 
+Our development board can be accessed [here](https://github.com/orgs/projection-engine/projects/7/views/2), there you can follow the current focus of development.
 
 ## Repositories
 
-### [Engine](https://github.com/projection-engine/engine)
+### [Engine](https://github.com/projection-engine/engine) 
+Production and development engine code
 
-Rendering stuff including editor tools.
+### [Editor](https://github.com/projection-engine/editor) 
+Project editor, includes: views, APIs, desktop integration and etc
 
-### [Editor](https://github.com/projection-engine/editor)
+### [Hub](https://github.com/projection-engine/hub)
+Future platform for managing projects, engine versions and sharing your development
 
-Editor UI including **Svelte** frontend and the **Electron** backend.
 
 ## Screenshots
 
