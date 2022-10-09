@@ -1,5 +1,11 @@
-# Projection engine [v6.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
+# Projection engine 
  
+### [Windows release (beta)](https://github.com/projection-engine/hub/releases/tag/APP-WINDOWS)
+
+![img](https://github.com/projection-engine/.github/blob/main/HUB-RELEASE.png?raw=true)
+
+---
+
 This is a solo, open-source project of a full-on 3D graphics engine, intended to be used to create small to medium size
 interactive desktop and web applications.
 
