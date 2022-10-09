@@ -5,8 +5,10 @@ interactive desktop and web applications.
 
 If you would like to contribute with this project, your feedback would be extremely appreciated.
 
-**Discord:** morshu_non_rtx#8805
-**Email**: projectionengine@gmail.com
+## Contact
+- **Discord:** morshu_non_rtx#8805
+
+- **Email**: projectionengine@gmail.com
 
 ## Follow the development
 Our development board can be accessed [here](https://github.com/orgs/projection-engine/projects/7/views/2), there you can follow the current focus of development.
