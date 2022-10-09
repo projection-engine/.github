@@ -1,6 +1,6 @@
 # Projection engine 
  
-### [Windows release (beta)](https://github.com/projection-engine/hub/releases/tag/APP-WINDOWS)
+### [Release (beta for windows)](https://github.com/projection-engine/hub/releases/tag/APP-WINDOWS)
 
 ![img](https://github.com/projection-engine/.github/blob/main/HUB-RELEASE.png?raw=true)
 
