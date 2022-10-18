@@ -14,8 +14,21 @@ If you would like to contribute with this project, your feedback would be extrem
 
 - **Email**: projectionengine@gmail.com
 
-## Follow the development
-Our development board can be accessed [here](https://github.com/orgs/projection-engine/projects/7/views/2), there you can follow the current focus of development.
+## Development
+
+You can follow the project development via the following boards:
+
+### [New features](https://github.com/orgs/projection-engine/projects/6)
+
+New features coming to the engine in the near/medium distance future.
+
+### [Bugs](https://github.com/orgs/projection-engine/projects/5)
+
+Known bugs.
+
+### [Improvements](https://github.com/orgs/projection-engine/projects/4)
+
+Currently existing features with improvements coming to how they work.
 
 ## Repositories
 
