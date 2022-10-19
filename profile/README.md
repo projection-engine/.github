@@ -28,7 +28,7 @@ Known bugs.
 
 ### [Improvements](https://github.com/orgs/projection-engine/projects/4)
 
-Currently existing features with improvements coming to how they work.
+Improvements to existing features.
 
 ## Repositories
 
