@@ -2,7 +2,7 @@
 
 Projection engine is a free and open-source 3D graphics engine and editor.
 
-#### [Follow the development here](https://github.com/orgs/projection-engine/projects/11/views/1)
+#### [Follow the development](https://github.com/orgs/projection-engine/projects/11/views/1)
 #### [Download the latest version](https://github.com/projection-engine/editor/releases/tag/1.0.0)
 ---
 
