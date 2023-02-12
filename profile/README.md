@@ -22,30 +22,9 @@ Renderer base structure
 
 Editor UI and app
 
-## Milestones
-
-- [x] **Fast and structured forward renderer**
-- [x] **"Immediate" mode node editor**
-- [x] **New lens effects**
-    - [x] Motion blur
-    - [x] Depth of field
-- [x] **Dedicated transparency pass with access to opaque geometry information**
-- [x] SSR with roughness based blur and normal influence
-- [x] **New shading models**
-    - [x] Sheen, clear-coat, anisotropic, isotropic, unlit
-- [x] **Screen-space decals**
-- [x] **Screen-space shadows for any light type**
-- [x] More lights: now up to 310 lights can be integrated in a scene
-- [x] Lighting improvements and early contribution discard for improved
-- [x] **Project selection without a separate app (HUB)**
-- [x] Icons and lines for more editor information while working on a scene
-- [x] Distance culling and screen-door effects
-- [x] New grid rendering system
-- [x] Orthographic projection
-- [x] **New rotation gizmo renderer**
-- [x] New debug shading methods: Lighting complexity, roughness/metallic/ao/albedo, random colors,
-- [x] Atmospheric scattering
-
+## Latest version
+[Download it here](https://github.com/projection-engine/editor/releases/tag/1.0.0)
+ 
 ## License
 
 Projection Engine is licensed under the GNU General Public License, Version 3.
